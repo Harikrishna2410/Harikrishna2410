@@ -1,12 +1,11 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harikrishna2410.harikrishna2410)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=harikrishna2410.harikrishna2410) ![Profile views](https://gpvc.arturio.dev/harikrishna2410) 
 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishna2410&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishna2410" /> </p>
 
- <h4> Hi! My name is <h3>Harikrishna Nirmal</h3>. Thank You for taking the time to view my GitHub Profile :smile: </h4>
+<h4> Hi! My name is <b>Harikrishna Nirmal</b>. Thank You for taking the time to view my GitHub Profile :smile: </h4>
 <h4>A passionate Android developer from India</h43>
  
  <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -45,6 +44,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/harikrishna2410)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harikrishna2410)  
-
-![Profile views](https://gpvc.arturio.dev/harikrishna2410)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harikrishna2410)   

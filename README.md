@@ -1,10 +1,11 @@
-<div align="center">
-<img width="100%" height = "250px" src="" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=harikrishna2410.harikrishna2410)
+
+</p>
+ <div size='20px'> Hi! My name is Harikrishna Nirmal. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 <h3>A passionate Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishna2410&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishna2410" /> </p>

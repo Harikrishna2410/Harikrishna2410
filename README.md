@@ -35,8 +35,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=harikrishna2410&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harikrishna2410)  
-
 ![GitHub metrics](https://metrics.lecoq.io/harikrishna2410)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harikrishna2410)   

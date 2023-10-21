@@ -1,9 +1,4 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harikrishna2410.harikrishna2410) ![Profile views](https://gpvc.arturio.dev/harikrishna2410) 
-
-</p>
 
 <h4> Hi! My name is <b>Harikrishna Nirmal</b>. Thank You for taking the time to view my GitHub Profile :smile: </h4>
 <h4>A passionate Android developer from India</h43>
